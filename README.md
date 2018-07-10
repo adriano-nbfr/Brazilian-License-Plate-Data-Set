@@ -9,5 +9,5 @@ A data set containing over 20.000 normalized images of brazilian license plates 
 
 3. SBAI2013_Brazil_Freire_Maia_Automatic-location-of-vehicle-license-plates-in_portuguese.pdf : The article that describes the build process of the plate detector.
 
-# To reference
-F. A. N. Freire and José E. B. Maia, Automatic location of vehicle license plates in image based on the Viola-Jones detector, SBAI2013 - Brasilian Symposium of Intelliegent Automation, 2013 oct 13-17, Fortaleza, Ceará, Brazil, 2013 (in Portuguese: Localização automática de placas de veículos em imagem baseada no detector Viola-Jones).
+# Reference
+To reference: F. A. N. Freire and José E. B. Maia, Automatic location of vehicle license plates in image based on the Viola-Jones detector, SBAI2013 - Brasilian Symposium of Intelliegent Automation, 2013 oct 13-17, Fortaleza, Ceará, Brazil, 2013 (in Portuguese: Localização automática de placas de veículos em imagem baseada no detector Viola-Jones).
