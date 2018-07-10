@@ -3,9 +3,9 @@ A data set containing over 20.000 normalized images of brazilian license plates 
 
 # Data description
 
-1. BDPOS1.zip: 10080 positive images of brazilian license plates of type 1 (darker digits and lighter background) at 46 x 18 pixels resolution;
+1. BDPOS1.zip: 10080 positive images of brazilian license plates of type 1 (darker digits and lighter background) at 46 x 18 pixels resolution. There are 10000 synthesized images + 80 real images;
 
-2. BDPOS2.zip: 10007 positive images of brazilian license plates of type 2 (lighter digits and darker background) at 46 x 18 pixels resolution;
+2. BDPOS2.zip: 10007 positive images of brazilian license plates of type 2 (lighter digits and darker background) at 46 x 18 pixels resolution. There are 10000 synthesized images + 7 real images;
 
 3. SBAI2013_Brazil_Freire_Maia_Automatic-location-of-vehicle-license-plates-in_portuguese.pdf : The article that describes the build process of the plate detector.
 
